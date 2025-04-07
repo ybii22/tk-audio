@@ -1,2 +1,2 @@
 # tk-audio
-file audio aplikasih sekola TK
+file audio aplikasi sekolah TK
